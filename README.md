@@ -1,4 +1,4 @@
-# 🧬 Análisis Automático de Transcriptómica Espacial (Stereo-seq)
+<img width="638" height="201" alt="image" src="https://github.com/user-attachments/assets/b7fcf76d-1455-48c0-9698-cd9551af1043" /><img width="638" height="201" alt="image" src="https://github.com/user-attachments/assets/438bdbe2-131b-4b5f-b5db-ab4300ddea43" /># 🧬 Análisis Automático de Transcriptómica Espacial (Stereo-seq)
 
 ## 📖 Descripción
 La **transcriptómica espacial** es una de las tecnologías más innovadoras en biomedicina, ya que permite estudiar la **expresión génica directamente sobre el tejido**, manteniendo la localización espacial de cada célula.  
@@ -37,7 +37,13 @@ Este software está diseñado para:
 ---
 
 ## 📊 Ejemplo de Resultados
-*(Se pueden incluir imágenes de heatmaps, dotplots o proyecciones sobre cortes histológicos aquí)*  
+## 📊 Ejemplo de Resultados
+
+Transcriptómica espacial aplicada a diferentes tejidos de ratón:  
+
+**Ojo** | **Cerebro** | **Corazón**
+:---:|:---:|:---:
+![Ojo](https://enfile.stomics.tech/C04687E314_cellcluster-0415.jpg) | ![Cerebro](https://enfile.stomics.tech/C04042E3_cellcluster-0415.jpg) | ![Embrión](https://enfile.stomics.tech/D05103C4D4_cellcluster_0611-550x420px.jpg)
 
 ---
 
@@ -85,8 +91,12 @@ This software is designed for:
 ---
 
 ## 📊 Example Outputs
-*(Here you can add images such as heatmaps, dotplots, or histological projections)*  
 
+Spatial transcriptomics applied to different mouse tissues:
+
+**Eye** | **Brain** | **Embryo**
+:---:|:---:|:---:
+![Eye](https://enfile.stomics.tech/C04687E314_cellcluster-0415.jpg) | ![Brain](https://enfile.stomics.tech/C04042E3_cellcluster-0415.jpg) | ![Embryo](https://enfile.stomics.tech/D05103C4D4_cellcluster_0611-550x420px.jpg)
 ---
 
 ## 📜 License
