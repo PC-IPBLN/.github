@@ -37,7 +37,6 @@ Este software está diseñado para:
 ---
 
 ## 📊 Ejemplo de Resultados
-## 📊 Ejemplo de Resultados
 
 Transcriptómica espacial aplicada a diferentes tejidos de ratón:  
 
