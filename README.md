@@ -42,7 +42,7 @@ Transcriptómica espacial aplicada a diferentes tejidos de ratón:
 
 **Ojo** | **Cerebro** | **Corazón**
 :---:|:---:|:---:
-![Ojo](https://enfile.stomics.tech/C04687E314_cellcluster-0415.jpg) | ![Cerebro](https://enfile.stomics.tech/C04042E3_cellcluster-0415.jpg) | ![Embrión](https://enfile.stomics.tech/D05103C4D4_cellcluster_0611-550x420px.jpg)
+![Ojo](https://enfile.stomics.tech/C04687E314_cellcluster-0415.jpg) | ![Cerebro](https://enfile.stomics.tech/C04042E3_cellcluster-0415.jpg) | ![Testículos](https://enfile.stomics.tech/B04652F6_cellbin_cluster-0415.jpg)
 
 ---
 
@@ -95,7 +95,7 @@ Spatial transcriptomics applied to different mouse tissues:
 
 **Eye** | **Brain** | **Embryo**
 :---:|:---:|:---:
-![Eye](https://enfile.stomics.tech/C04687E314_cellcluster-0415.jpg) | ![Brain](https://enfile.stomics.tech/C04042E3_cellcluster-0415.jpg) | ![Embryo](https://enfile.stomics.tech/D05103C4D4_cellcluster_0611-550x420px.jpg)
+![Eye](https://enfile.stomics.tech/C04687E314_cellcluster-0415.jpg) | ![Brain](https://enfile.stomics.tech/C04042E3_cellcluster-0415.jpg) | ![Testis](https://enfile.stomics.tech/B04652F6_cellbin_cluster-0415.jpg)
 ---
 
 ## 📜 License
