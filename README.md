@@ -1,4 +1,4 @@
-<img width="638" height="201" alt="image" src="https://github.com/user-attachments/assets/b7fcf76d-1455-48c0-9698-cd9551af1043" /><img width="638" height="201" alt="image" src="https://github.com/user-attachments/assets/438bdbe2-131b-4b5f-b5db-ab4300ddea43" /># 🧬 Análisis Automático de Transcriptómica Espacial (Stereo-seq)
+# 🧬 Análisis Automático de Transcriptómica Espacial (Stereo-seq)
 
 ## 📖 Descripción
 La **transcriptómica espacial** es una de las tecnologías más innovadoras en biomedicina, ya que permite estudiar la **expresión génica directamente sobre el tejido**, manteniendo la localización espacial de cada célula.  
